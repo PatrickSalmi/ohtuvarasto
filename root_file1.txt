@@ -1,3 +1,0 @@
-Hello
-testing git add -p
-testing second cloned repo
