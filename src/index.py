@@ -66,7 +66,5 @@ def main():
     varastoon_lisays(mehua, olutta)
     varastosta_ottaminen(mehua, olutta)
 
-#aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-
 if __name__ == "__main__":
     main()
